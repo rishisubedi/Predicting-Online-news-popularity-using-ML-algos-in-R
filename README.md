@@ -1,6 +1,6 @@
 # Online News Popularity
 
-By: Shivam Pandit, Nandini Krupa Krishnamurthy, Rohit Chundru 
+By: Shivam Pandit, Nandini Krupa Krishnamurthy, Rohit Chundru, Rishi Subedi
 
 
 Introduction and Motivation
